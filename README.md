@@ -27,4 +27,10 @@ useful sites: https://swatchseries.is (any show for free) (tips: have control+w 
 
 this will probably be patched soon, looking into more methods for the future. enjoy!
 
-tutorial: 
+### NOTE:
+like what happened to me in the tutorial, there are a couple more steps you can follow to ensure it works. in the tutorial, my chromebook didnt freeze, meaning the pages were still blocked. if that happens, open this link in a new tab: chrome-extension://adkcpkpghahmbopkjchobieckeoaoeem/manifest.json
+once you open that, duplicate the tab, then in that new tab that you duplicated, go to the bookmark you made for chrome://extensions/?id=adkcpkpghahmbopkjchobieckeoaoeem
+once youre there, flip the switch until its off. check in a new tab if things are still unblocked, if they are not, you can close all tabs and browse freely!
+
+tutorial:  
+https://drive.google.com/file/d/1r-BxfUfTCIQJUa-YcCETsAvL8eyit_qA/view?usp=sharing
